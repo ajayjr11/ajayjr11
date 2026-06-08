@@ -134,26 +134,9 @@ class AjayC extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-c-jr11&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=7C3AED&currStreakLabel=6D28D9" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayjr11&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=7C3AED&currStreakLabel=6D28D9" width="70%"/>
 
 </div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| 🎓 M.Sc. Computer Science | Bishop Heber College, TN | 2024 – 2026 | 7.6 / 10 |
-| 🎓 B.Sc. Computer Science | Bishop Heber College, TN | 2020 – 2023 | 7.97 / 10 |
-
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Fluent-4F46E5?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Native-10B981?style=flat-square)
-![Malayalam](https://img.shields.io/badge/Malayalam-Proficient-F59E0B?style=flat-square)
 
 ---
 
