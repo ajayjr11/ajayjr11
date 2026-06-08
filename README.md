@@ -122,23 +122,6 @@ class AjayC extends FlutterDeveloper {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajay-c-jr11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=6D28D9&text_color=ffffff" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-c-jr11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=ffffff" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayjr11&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=7C3AED&currStreakLabel=6D28D9" width="70%"/>
-
-</div>
-
----
 
 <div align="center">
 
