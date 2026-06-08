@@ -15,7 +15,6 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-ajayjrj11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayjrj11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ajay--c--jr11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay-c-jr11)
 [![Location](https://img.shields.io/badge/📍_Trichy-India-4F46E5?style=for-the-badge)](https://maps.google.com/?q=Trichy,India)
 [![Phone](https://img.shields.io/badge/📞-+91_63690_86605-10B981?style=for-the-badge)](tel:+916369086605)
 
